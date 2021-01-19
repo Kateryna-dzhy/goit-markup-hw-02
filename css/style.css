@@ -61,7 +61,7 @@ li {
 .contact-list-link {
   font-weight: 500;
   font-size: 14px;
-  line-height: 1, 143;
+  line-height: 1.143;
   letter-spacing: 0.02em;
 
   color: var(--text-color);
@@ -178,8 +178,8 @@ li {
 
 /*стилизация портфолио*/
 
-/*фильтры - переделать на радио-кнопки*/
-.filter-list-item {
+/*фильтры - переделать на радио-кнопки?*/
+.filter-list-item-button {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.625;
@@ -187,7 +187,7 @@ li {
 
   color: var(--title-color);
 }
-.active-filter {
+.active-button {
   color: #ffffff;
 }
 
